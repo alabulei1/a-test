@@ -1,1 +1,1 @@
-# a-test
+# test for WasmHaiku
